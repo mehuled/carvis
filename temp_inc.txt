@@ -1,0 +1,3 @@
+START
+ADD R3 R2 R1
+HLT
